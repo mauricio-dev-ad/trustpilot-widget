@@ -5,90 +5,90 @@
     "stars": 4.5,
     "totalReviews": 366,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-06-19T18:56:46.284Z"
+    "fetchedAt": "2026-06-19T19:02:15.667Z"
   },
   "count": 9,
   "reviews": [
     {
-      "id": "69b48cd2f3bbcdcdeff05cb2",
+      "id": "6a35017d54944c4b32b181a5",
       "stars": 5,
-      "title": "Clases prácticas muy interesantes y con…",
-      "text": "Clases prácticas muy interesantes y con sentido para aplicar en el campo práctico.",
-      "author": "Osvaldo Urrutia",
-      "date": "mar 2026",
+      "title": "Excelente experiencia",
+      "text": "Realmente me sorprendio el profesionalismo de los expositores y la organizacion en general de todo el diplomado. Lo recomendaria sin duda y ya estoy pensando en mi proximo curso en Asuntos digitales.",
+      "author": "vivian",
+      "date": "jun 2026",
       "verified": true
     },
     {
-      "id": "69b47faf72924ae4e63f4fc3",
+      "id": "6a34bc9148af06983da83913",
       "stars": 5,
-      "title": "Muy buenos docentes",
-      "text": "Muy buenos docentes, muy claros y sie pre tuvimos apoyo y respuesta de la institución. ",
-      "author": "María Elida Samurio Rubbo",
-      "date": "mar 2026",
+      "title": "Excelente e innovadora experiencia",
+      "text": "Sin duda excelente experiencia, instancia de acceso a nuevos conocimientos. Nuevos procesos, invitación a singulares desafíos.",
+      "author": "Oscar Morales León Oscar",
+      "date": "jun 2026",
       "verified": true
     },
     {
-      "id": "69ab4357897029ad70d555b1",
-      "stars": 5,
-      "title": "Una experiencia única",
-      "text": "Una experiencia única.  Porque los temas han sido muy útiles y enriquecedores.  Profesores, maestros muy puntuales y con gran conocimiento.  No pierden un segundo, enseñando y compartiendo desde la experiencia.  Que gusto encontrar esta formación, y muy importante que lo puedo revisar posteriormente en la plataforma.  Gracias por tan gran trabajo! Volveré!",
-      "author": "Guadalupe Ochoa Villarreal",
-      "date": "mar 2026",
-      "verified": true
-    },
-    {
-      "id": "698ca29aeb6a2b4953ffcee9",
-      "stars": 5,
-      "title": "Fue una experiencia inspiradora",
-      "text": "Fue una experiencia inspiradora, no importa que sea en línea todos los docentes logran ransmitir conocimiento y motivar a lograr lo que uno desea. Los docentes tienen amplia experiencia pero siempre me hicieron sentir tranquilo y me explicaban eso que yo no conocía o como podia hacerlo mejor. Su trato amable, su apoyo incondicional es lo mejor, super recomiendo Diplomado en Dirección en centros educativos. ",
-      "author": "Alejandra Guerrero",
-      "date": "feb 2026",
-      "verified": false
-    },
-    {
-      "id": "698a9589d26a789f3330d096",
-      "stars": 5,
-      "title": "Me encantó cada sesión",
-      "text": "Me encantó cada sesión. Hay profesores expertos en cada área correspondiente y se nota su larga carrera dentro de la industria. La herramienta de la IA es extraordinaria y de mucha ayuda. 100% recomendable ",
-      "author": "Daniela Uribe Guerrero",
-      "date": "feb 2026",
-      "verified": true
-    },
-    {
-      "id": "697a806db97a1dc5bcc773c5",
+      "id": "6a34390713f9604afa04fe87",
       "stars": 4,
-      "title": "Reafirme conocimiento ",
-      "text": "Reafirme conocimiento, conocí nuevos perfiles y tendencias para mi negocio y trabajo! ",
-      "author": "Marco A  Rodriguez F",
-      "date": "ene 2026",
+      "title": "Muy organizado todo. En general, bien",
+      "text": "Muy organizado todo y, en general, muy valiosos los contenidos y expositores. Hubo varias clases consecutivas que fueron muy repetidas, hablando del target, el cliente, la experiencia, marketing digital, redes sociales.  Llegó a ser repetitivo.",
+      "author": "María Paola Martínez",
+      "date": "jun 2026",
       "verified": true
     },
     {
-      "id": "6978e99f901e9a1381e3ce6c",
+      "id": "6a34127d27196686c9890124",
       "stars": 5,
-      "title": "Excelente experiencia, 100% recomendado",
-      "text": "He realizado dos diplomados con Asuntos Digitales hasta el momento y con mucha seguridad puedo decir que realizaré mas en un futuro. No solo el contenido es altamente especializado sino que los ponentes de las clases son personas capacitadas con experiencia e historial de éxito en sus respectivas competencias como profesionales. No solo las clases sino los recursos y disposición de los ponentes a la hora de contacto fuera de las sesiones es un valor agregado que hace sentir realmente acompañado. 10/10 en toda mi experiencia con Asuntos Digitales",
-      "author": "customer",
-      "date": "ene 2026",
+      "title": "Manejo adecuado de material educativos",
+      "text": "Manejo adecuado de material educativos. Proveen materiales de consulta suficientes, ejercicios y las grabaciones de cada sesion, uno puede revisitar la sesion cada vez que lo necesite. Profesores condominio de las herramientas y los conceptos",
+      "author": "Jesus Ferrer",
+      "date": "jun 2026",
       "verified": true
     },
     {
-      "id": "696e4045d1dbd134257a4bb9",
+      "id": "6a340bf3379859408a5611da",
       "stars": 5,
-      "title": "Una experiencia inolvidable",
-      "text": "Soy Kike Sandoval, artista emergente basado en Caracas y cursé el diplomado de gestión, marketing y comercialización de artes plásticas y solo puedo decir cosas buenas al respecto. Los profesores son fantásticos, muy profesionales y con muchas ganas de enseñar. Estoy muy agradecido con todo el equipo que formó parte de esta increíble experiencia. Se que el material ha sido y seguirá siendo muy valioso en mi crecimiento personal. Estaré atento a la oferta académica para nuevas lecciones y les deseo mucho éxito siempre.",
-      "author": "Luis E Sandoval",
-      "date": "ene 2026",
+      "title": "Fue muy buena y didáctica la propuesta!",
+      "text": "Fue muy buena y didáctica la propuesta!",
+      "author": "Guillermo Leonelli",
+      "date": "jun 2026",
       "verified": true
     },
     {
-      "id": "6969160e3e28b364bedcfc31",
+      "id": "6a04c35ebc3aadfcd7cb42ef",
       "stars": 5,
-      "title": "Es una gran oportunidad para todos en el cualquier rincón ",
-      "text": "Es una gran oportunidad para todos en el ámbito personal y laboral. Proporcionan herramientas de te enseñan y ayudan a crecer en tus negocios y sueños. Poseen una atención excepcional y buena gestión.son flexibles con el estudiante y creen que todos tienen derecho a una oportunidad de aprender. Soy un joven venezolano que está agradecido de la oportunidad que asuntos digitales me ofreció.",
-      "author": "Angel Arturo Hurtado Gutiérrez",
-      "date": "ene 2026",
+      "title": "Espectacular",
+      "text": "Espectacular, lo que esperas y más.\nSin quejas.\nSimplemente se esfuerzan por ser excelentes.\nMuy buena atención.\n",
+      "author": "Salvador Araujo",
+      "date": "may 2026",
       "verified": false
+    },
+    {
+      "id": "69fa1003ab93edd7fed7a187",
+      "stars": 5,
+      "title": "“Mi experiencia en el diplomado fue muy…",
+      "text": "“Mi experiencia en el diplomado fue muy enriquecedora y clave para el perfeccionamiento de mi gestión. Me permitió incorporar herramientas prácticas, actualizar conocimientos y fortalecer habilidades estratégicas que hoy aplico directamente en mi rol. Destaco especialmente la calidad de los contenidos y el enfoque aplicado a situaciones reales, lo que hizo que el aprendizaje sea realmente valioso.”",
+      "author": "PATRICIA LAURA MOLINA",
+      "date": "may 2026",
+      "verified": true
+    },
+    {
+      "id": "69e2d1fffc7d0e019604f49f",
+      "stars": 5,
+      "title": " Aprendizaje con muchos momentos WOW",
+      "text": "Fue una experiencia de muchos momentos WOW. De aprender y compartir ideas que pondré en práctica inmediatamente. Los instructores no se guardaron nada! ",
+      "author": "Mauricio Jaramillo",
+      "date": "abr 2026",
+      "verified": true
+    },
+    {
+      "id": "69e2b47e2257d357fe90901f",
+      "stars": 5,
+      "title": "Muy responsables con todo",
+      "text": "Muy responsables con todo",
+      "author": "Valued Wix User",
+      "date": "abr 2026",
+      "verified": true
     }
   ]
 }
