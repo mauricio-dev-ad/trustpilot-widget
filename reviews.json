@@ -5,18 +5,90 @@
     "stars": 4.5,
     "totalReviews": 366,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-06-19T18:41:28.963Z"
+    "fetchedAt": "2026-06-19T18:47:03.471Z"
   },
-  "count": 1,
+  "count": 9,
   "reviews": [
     {
-      "id": "668c0790747f537333fab624",
+      "id": "69b48cd2f3bbcdcdeff05cb2",
       "stars": 5,
-      "title": "La actualización de temas de marketing…",
-      "text": "La actualización de temas de marketing fue enriquecedora, así como las experiencias de los profesores.",
-      "author": "Ana Paola G",
-      "date": "jul 2024",
+      "title": "Clases prácticas muy interesantes y con…",
+      "text": "Clases prácticas muy interesantes y con sentido para aplicar en el campo práctico.",
+      "author": "Osvaldo Urrutia",
+      "date": "mar 2026",
       "verified": true
+    },
+    {
+      "id": "69b47faf72924ae4e63f4fc3",
+      "stars": 5,
+      "title": "Muy buenos docentes",
+      "text": "Muy buenos docentes, muy claros y sie pre tuvimos apoyo y respuesta de la institución. ",
+      "author": "María Elida Samurio Rubbo",
+      "date": "mar 2026",
+      "verified": true
+    },
+    {
+      "id": "69ab4357897029ad70d555b1",
+      "stars": 5,
+      "title": "Una experiencia única",
+      "text": "Una experiencia única.  Porque los temas han sido muy útiles y enriquecedores.  Profesores, maestros muy puntuales y con gran conocimiento.  No pierden un segundo, enseñando y compartiendo desde la experiencia.  Que gusto encontrar esta formación, y muy importante que lo puedo revisar posteriormente en la plataforma.  Gracias por tan gran trabajo! Volveré!",
+      "author": "Guadalupe Ochoa Villarreal",
+      "date": "mar 2026",
+      "verified": true
+    },
+    {
+      "id": "698ca29aeb6a2b4953ffcee9",
+      "stars": 5,
+      "title": "Fue una experiencia inspiradora",
+      "text": "Fue una experiencia inspiradora, no importa que sea en línea todos los docentes logran ransmitir conocimiento y motivar a lograr lo que uno desea. Los docentes tienen amplia experiencia pero siempre me hicieron sentir tranquilo y me explicaban eso que yo no conocía o como podia hacerlo mejor. Su trato amable, su apoyo incondicional es lo mejor, super recomiendo Diplomado en Dirección en centros educativos. ",
+      "author": "Alejandra Guerrero",
+      "date": "feb 2026",
+      "verified": false
+    },
+    {
+      "id": "698a9589d26a789f3330d096",
+      "stars": 5,
+      "title": "Me encantó cada sesión",
+      "text": "Me encantó cada sesión. Hay profesores expertos en cada área correspondiente y se nota su larga carrera dentro de la industria. La herramienta de la IA es extraordinaria y de mucha ayuda. 100% recomendable ",
+      "author": "Daniela Uribe Guerrero",
+      "date": "feb 2026",
+      "verified": true
+    },
+    {
+      "id": "697a806db97a1dc5bcc773c5",
+      "stars": 4,
+      "title": "Reafirme conocimiento ",
+      "text": "Reafirme conocimiento, conocí nuevos perfiles y tendencias para mi negocio y trabajo! ",
+      "author": "Marco A  Rodriguez F",
+      "date": "ene 2026",
+      "verified": true
+    },
+    {
+      "id": "6978e99f901e9a1381e3ce6c",
+      "stars": 5,
+      "title": "Excelente experiencia, 100% recomendado",
+      "text": "He realizado dos diplomados con Asuntos Digitales hasta el momento y con mucha seguridad puedo decir que realizaré mas en un futuro. No solo el contenido es altamente especializado sino que los ponentes de las clases son personas capacitadas con experiencia e historial de éxito en sus respectivas competencias como profesionales. No solo las clases sino los recursos y disposición de los ponentes a la hora de contacto fuera de las sesiones es un valor agregado que hace sentir realmente acompañado. 10/10 en toda mi experiencia con Asuntos Digitales",
+      "author": "customer",
+      "date": "ene 2026",
+      "verified": true
+    },
+    {
+      "id": "696e4045d1dbd134257a4bb9",
+      "stars": 5,
+      "title": "Una experiencia inolvidable",
+      "text": "Soy Kike Sandoval, artista emergente basado en Caracas y cursé el diplomado de gestión, marketing y comercialización de artes plásticas y solo puedo decir cosas buenas al respecto. Los profesores son fantásticos, muy profesionales y con muchas ganas de enseñar. Estoy muy agradecido con todo el equipo que formó parte de esta increíble experiencia. Se que el material ha sido y seguirá siendo muy valioso en mi crecimiento personal. Estaré atento a la oferta académica para nuevas lecciones y les deseo mucho éxito siempre.",
+      "author": "Luis E Sandoval",
+      "date": "ene 2026",
+      "verified": true
+    },
+    {
+      "id": "6969160e3e28b364bedcfc31",
+      "stars": 5,
+      "title": "Es una gran oportunidad para todos en el cualquier rincón ",
+      "text": "Es una gran oportunidad para todos en el ámbito personal y laboral. Proporcionan herramientas de te enseñan y ayudan a crecer en tus negocios y sueños. Poseen una atención excepcional y buena gestión.son flexibles con el estudiante y creen que todos tienen derecho a una oportunidad de aprender. Soy un joven venezolano que está agradecido de la oportunidad que asuntos digitales me ofreció.",
+      "author": "Angel Arturo Hurtado Gutiérrez",
+      "date": "ene 2026",
+      "verified": false
     }
   ]
 }
