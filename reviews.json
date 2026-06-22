@@ -3,12 +3,30 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 366,
+    "totalReviews": 368,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-06-19T19:02:15.667Z"
+    "fetchedAt": "2026-06-22T19:05:22.754Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a38cb7ef3121656f2f57886",
+      "stars": 5,
+      "title": "ME ENCANTO ",
+      "text": "ME ENCANTO ! ME QUEDE TODAVIA CON MUCHAS DUDAS, Y AGRADEZCO INFINITAMENTE QUE DEJEN LAS CLASES UNOS MESES MAS PARA PODER PRACTUCAR Y VOLVERLAS A VER , REALMENTE ME GUSTARIA TOMAR OTRO CURSO \n",
+      "author": "CLAUDIA DE LA GALA ORDONEZ",
+      "date": "jun 2026",
+      "verified": true
+    },
+    {
+      "id": "6a35894c3c2d652c9e77085d",
+      "stars": 5,
+      "title": "La tapa del frasco",
+      "text": "Desde la pandemia me he ido preparando para desarrollar un proyecto y solo me faltaba este diplomado para darle acción de una vez.\nLas herramientas que me han aportado definitivamente son lo que me faltaba. Ya tengo la seguridad para ejecutar,  tengo la experiencia de mas de 30 años en el ejercicio de la psicologîa y deseo compartir mi experiencia con otros",
+      "author": "Ingrind Sequera",
+      "date": "jun 2026",
+      "verified": true
+    },
     {
       "id": "6a35017d54944c4b32b181a5",
       "stars": 5,
@@ -70,24 +88,6 @@
       "text": "“Mi experiencia en el diplomado fue muy enriquecedora y clave para el perfeccionamiento de mi gestión. Me permitió incorporar herramientas prácticas, actualizar conocimientos y fortalecer habilidades estratégicas que hoy aplico directamente en mi rol. Destaco especialmente la calidad de los contenidos y el enfoque aplicado a situaciones reales, lo que hizo que el aprendizaje sea realmente valioso.”",
       "author": "PATRICIA LAURA MOLINA",
       "date": "may 2026",
-      "verified": true
-    },
-    {
-      "id": "69e2d1fffc7d0e019604f49f",
-      "stars": 5,
-      "title": " Aprendizaje con muchos momentos WOW",
-      "text": "Fue una experiencia de muchos momentos WOW. De aprender y compartir ideas que pondré en práctica inmediatamente. Los instructores no se guardaron nada! ",
-      "author": "Mauricio Jaramillo",
-      "date": "abr 2026",
-      "verified": true
-    },
-    {
-      "id": "69e2b47e2257d357fe90901f",
-      "stars": 5,
-      "title": "Muy responsables con todo",
-      "text": "Muy responsables con todo",
-      "author": "Valued Wix User",
-      "date": "abr 2026",
       "verified": true
     }
   ]
