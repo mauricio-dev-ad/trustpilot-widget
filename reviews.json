@@ -3,12 +3,21 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 368,
+    "totalReviews": 369,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-06-22T19:05:22.754Z"
+    "fetchedAt": "2026-06-24T12:21:20.199Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a3acf73075fea89c5f03802",
+      "stars": 5,
+      "title": "Creo que es muy bueno y muy dinámico el…",
+      "text": "Creo que es muy bueno y muy dinámico el curso. La comunicación es excelente. Los profesores son profesionales del área y con buena trayectoria. Son ameno, responden las dudas. Lo recomiendo 100%",
+      "author": "Moralva",
+      "date": "jun 2026",
+      "verified": true
+    },
     {
       "id": "6a38cb7ef3121656f2f57886",
       "stars": 5,
@@ -80,15 +89,6 @@
       "author": "Salvador Araujo",
       "date": "may 2026",
       "verified": false
-    },
-    {
-      "id": "69fa1003ab93edd7fed7a187",
-      "stars": 5,
-      "title": "“Mi experiencia en el diplomado fue muy…",
-      "text": "“Mi experiencia en el diplomado fue muy enriquecedora y clave para el perfeccionamiento de mi gestión. Me permitió incorporar herramientas prácticas, actualizar conocimientos y fortalecer habilidades estratégicas que hoy aplico directamente en mi rol. Destaco especialmente la calidad de los contenidos y el enfoque aplicado a situaciones reales, lo que hizo que el aprendizaje sea realmente valioso.”",
-      "author": "PATRICIA LAURA MOLINA",
-      "date": "may 2026",
-      "verified": true
     }
   ]
 }
