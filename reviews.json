@@ -3,12 +3,21 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 369,
+    "totalReviews": 370,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-06-24T12:21:20.199Z"
+    "fetchedAt": "2026-06-27T17:16:08.426Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a3de418004f18b58b776efc",
+      "stars": 5,
+      "title": "Cómo una forma de seguir adelante",
+      "text": "Cómo una forma de seguir adelante \n",
+      "author": "Sander Bautista",
+      "date": "jun 2026",
+      "verified": false
+    },
     {
       "id": "6a3acf73075fea89c5f03802",
       "stars": 5,
@@ -80,15 +89,6 @@
       "author": "Guillermo Leonelli",
       "date": "jun 2026",
       "verified": true
-    },
-    {
-      "id": "6a04c35ebc3aadfcd7cb42ef",
-      "stars": 5,
-      "title": "Espectacular",
-      "text": "Espectacular, lo que esperas y más.\nSin quejas.\nSimplemente se esfuerzan por ser excelentes.\nMuy buena atención.\n",
-      "author": "Salvador Araujo",
-      "date": "may 2026",
-      "verified": false
     }
   ]
 }
