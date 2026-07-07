@@ -5,7 +5,7 @@
     "stars": 4.5,
     "totalReviews": 370,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-06T11:38:24.494Z"
+    "fetchedAt": "2026-07-07T13:02:46.523Z"
   },
   "count": 9,
   "reviews": [
@@ -15,7 +15,11 @@
       "title": "Cómo una forma de seguir adelante",
       "text": "Cómo una forma de seguir adelante \n",
       "author": "Sander Bautista",
+      "country": "DO",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-26T04:29:44.000Z",
+      "experienceISO": "2026-06-18T00:00:00.000Z",
       "verified": false
     },
     {
@@ -24,7 +28,11 @@
       "title": "Creo que es muy bueno y muy dinámico el…",
       "text": "Creo que es muy bueno y muy dinámico el curso. La comunicación es excelente. Los profesores son profesionales del área y con buena trayectoria. Son ameno, responden las dudas. Lo recomiendo 100%",
       "author": "Moralva",
+      "country": "DO",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-23T20:24:51.000Z",
+      "experienceISO": "2026-06-23T00:00:00.000Z",
       "verified": true
     },
     {
@@ -33,7 +41,11 @@
       "title": "ME ENCANTO ",
       "text": "ME ENCANTO ! ME QUEDE TODAVIA CON MUCHAS DUDAS, Y AGRADEZCO INFINITAMENTE QUE DEJEN LAS CLASES UNOS MESES MAS PARA PODER PRACTUCAR Y VOLVERLAS A VER , REALMENTE ME GUSTARIA TOMAR OTRO CURSO \n",
       "author": "CLAUDIA DE LA GALA ORDONEZ",
+      "country": "MX",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-22T07:43:26.000Z",
+      "experienceISO": "2026-06-21T00:00:00.000Z",
       "verified": true
     },
     {
@@ -42,7 +54,11 @@
       "title": "La tapa del frasco",
       "text": "Desde la pandemia me he ido preparando para desarrollar un proyecto y solo me faltaba este diplomado para darle acción de una vez.\nLas herramientas que me han aportado definitivamente son lo que me faltaba. Ya tengo la seguridad para ejecutar,  tengo la experiencia de mas de 30 años en el ejercicio de la psicologîa y deseo compartir mi experiencia con otros",
       "author": "Ingrind Sequera",
+      "country": "VE",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-19T20:24:12.000Z",
+      "experienceISO": "2026-06-19T00:00:00.000Z",
       "verified": true
     },
     {
@@ -51,7 +67,11 @@
       "title": "Excelente experiencia",
       "text": "Realmente me sorprendio el profesionalismo de los expositores y la organizacion en general de todo el diplomado. Lo recomendaria sin duda y ya estoy pensando en mi proximo curso en Asuntos digitales.",
       "author": "vivian",
+      "country": "PT",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-19T10:44:45.000Z",
+      "experienceISO": "2026-06-19T00:00:00.000Z",
       "verified": true
     },
     {
@@ -60,7 +80,11 @@
       "title": "Excelente e innovadora experiencia",
       "text": "Sin duda excelente experiencia, instancia de acceso a nuevos conocimientos. Nuevos procesos, invitación a singulares desafíos.",
       "author": "Oscar Morales León Oscar",
+      "country": "CL",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-19T05:50:41.000Z",
+      "experienceISO": "2026-06-16T00:00:00.000Z",
       "verified": true
     },
     {
@@ -69,7 +93,11 @@
       "title": "Muy organizado todo. En general, bien",
       "text": "Muy organizado todo y, en general, muy valiosos los contenidos y expositores. Hubo varias clases consecutivas que fueron muy repetidas, hablando del target, el cliente, la experiencia, marketing digital, redes sociales.  Llegó a ser repetitivo.",
       "author": "María Paola Martínez",
+      "country": "AR",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-18T20:29:27.000Z",
+      "experienceISO": "2026-06-18T00:00:00.000Z",
       "verified": true
     },
     {
@@ -78,7 +106,11 @@
       "title": "Manejo adecuado de material educativos",
       "text": "Manejo adecuado de material educativos. Proveen materiales de consulta suficientes, ejercicios y las grabaciones de cada sesion, uno puede revisitar la sesion cada vez que lo necesite. Profesores condominio de las herramientas y los conceptos",
       "author": "Jesus Ferrer",
+      "country": "VE",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-18T17:45:01.000Z",
+      "experienceISO": "2026-06-04T00:00:00.000Z",
       "verified": true
     },
     {
@@ -87,7 +119,11 @@
       "title": "Fue muy buena y didáctica la propuesta!",
       "text": "Fue muy buena y didáctica la propuesta!",
       "author": "Guillermo Leonelli",
+      "country": "AR",
+      "reviewCount": 1,
       "date": "jun 2026",
+      "publishedISO": "2026-06-18T17:17:07.000Z",
+      "experienceISO": "2026-06-18T00:00:00.000Z",
       "verified": true
     }
   ]
