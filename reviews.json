@@ -1,14 +1,27 @@
 {
   "business": {
     "name": "Asuntos Digitales",
-    "score": 4.7,
+    "score": 4.6,
     "stars": 4.5,
-    "totalReviews": 370,
+    "totalReviews": 371,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-08T12:15:16.578Z"
+    "fetchedAt": "2026-07-10T12:08:57.065Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a4f31ffa71f1474553afc31",
+      "stars": 2,
+      "title": "El diplomado no tiene una estructura entendible",
+      "text": "El diplomado de dirección comercial con IA no tiene una estructura entendible, se entendía que aprenderiamos temas de dirección comercial y no sólo asumir que conociamos de que estaban hablando y automatizarlo con IA. La realidad es que desde la sesión 4 dejé de atender las sesiones porque sentía que perdía mi tiempo.",
+      "author": "Roberto Tellez",
+      "country": "US",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-09T07:30:39.000Z",
+      "experienceISO": "2026-07-08T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a3de418004f18b58b776efc",
       "stars": 5,
@@ -111,19 +124,6 @@
       "date": "jun 2026",
       "publishedISO": "2026-06-18T17:45:01.000Z",
       "experienceISO": "2026-06-04T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a340bf3379859408a5611da",
-      "stars": 5,
-      "title": "Fue muy buena y didáctica la propuesta!",
-      "text": "Fue muy buena y didáctica la propuesta!",
-      "author": "Guillermo Leonelli",
-      "country": "AR",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-18T17:17:07.000Z",
-      "experienceISO": "2026-06-18T00:00:00.000Z",
       "verified": true
     }
   ]
