@@ -3,12 +3,38 @@
     "name": "Asuntos Digitales",
     "score": 4.6,
     "stars": 4.5,
-    "totalReviews": 371,
+    "totalReviews": 373,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-20T12:12:52.015Z"
+    "fetchedAt": "2026-07-22T11:35:55.222Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a60022882126e4f74bce5ed",
+      "stars": 5,
+      "title": "Fascinada con mi diploma! ",
+      "text": "Quiero expresar mis más profundas gracias por haberme enseñado tantas cosas que no sabía. A pesar de hacer más de 14 años que estoy en retail, hoy aprendí muchísimas cosas más. Todas implementare, me voy fascinada, y a futuro me ire a vivir a España, Murcia, donde ojalá pueda seguir implementando todo lo que acá aprendí. MARÍA CORINA su calidez y dulzura y cada profesor que tuvimos en cada clase lo más. Respeto, dedicación y comprimiso, son una escuela que forma profesionales. Gracias desde Uruguay.\nLourdes. ",
+      "author": "Lourdes Mesa",
+      "country": "UY",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-22T01:35:04.000Z",
+      "experienceISO": "2026-07-21T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a5fe1faf629e835f4d255cd",
+      "stars": 5,
+      "title": "Magnifico curso, una gran experiencia",
+      "text": "La verdad es que cada tema y curso fueron muy constructivos, muy bien planeados, todas las ponencias de primer nivel y mucha puntualidad. Felicidades. ",
+      "author": "Gustavo Barraza Miller",
+      "country": "MX",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-21T23:17:46.000Z",
+      "experienceISO": "2026-07-21T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a4f31ffa71f1474553afc31",
       "stars": 2,
@@ -98,32 +124,6 @@
       "date": "jun 2026",
       "publishedISO": "2026-06-19T05:50:41.000Z",
       "experienceISO": "2026-06-16T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a34390713f9604afa04fe87",
-      "stars": 4,
-      "title": "Muy organizado todo. En general, bien",
-      "text": "Muy organizado todo y, en general, muy valiosos los contenidos y expositores. Hubo varias clases consecutivas que fueron muy repetidas, hablando del target, el cliente, la experiencia, marketing digital, redes sociales.  Llegó a ser repetitivo.",
-      "author": "María Paola Martínez",
-      "country": "AR",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-18T20:29:27.000Z",
-      "experienceISO": "2026-06-18T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a34127d27196686c9890124",
-      "stars": 5,
-      "title": "Manejo adecuado de material educativos",
-      "text": "Manejo adecuado de material educativos. Proveen materiales de consulta suficientes, ejercicios y las grabaciones de cada sesion, uno puede revisitar la sesion cada vez que lo necesite. Profesores condominio de las herramientas y los conceptos",
-      "author": "Jesus Ferrer",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-18T17:45:01.000Z",
-      "experienceISO": "2026-06-04T00:00:00.000Z",
       "verified": true
     }
   ]
