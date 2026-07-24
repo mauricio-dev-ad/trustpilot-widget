@@ -3,12 +3,64 @@
     "name": "Asuntos Digitales",
     "score": 4.6,
     "stars": 4.5,
-    "totalReviews": 373,
+    "totalReviews": 377,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-22T11:35:55.222Z"
+    "fetchedAt": "2026-07-24T13:22:45.949Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a6282697de19a074c6f8224",
+      "stars": 4,
+      "title": "El programa fue amplio",
+      "text": "El programa fue amplio, diverso, y hubo varios temas de utilidad y actualidad.",
+      "author": "José Luis Bustamante Penilla",
+      "country": "MX",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-23T23:06:49.000Z",
+      "experienceISO": "2026-07-23T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a623a3d033c63ddd313a70b",
+      "stars": 5,
+      "title": "Considero que la mayoría de los temas…",
+      "text": "Considero que la mayoría de los temas fueron muy interesantes y actualizados. \nLos profesionales disertantes solventes y amenos.\nSi bien variaban muchísimo las realidades y contextos de los diferentes países,el material de apoyo adicional complementó adecuadamente la información. ",
+      "author": "Adriana Gallo",
+      "country": "UY",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-23T17:58:53.000Z",
+      "experienceISO": "2026-07-23T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a615414fc220f4e6f47c7d8",
+      "stars": 5,
+      "title": "Las clases y la informacion muy vigentes e interesantes",
+      "text": "Las clases y la informacion de las mismas muy actualizadas e interesantes, los profesores excelentes y María Corina estupenda y muy atenta. Muchas gracias",
+      "author": "Romaire Martinez",
+      "country": "VE",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-23T01:36:52.000Z",
+      "experienceISO": "2026-07-22T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a60e4864d4b7f150a9d8771",
+      "stars": 5,
+      "title": "Libertad y excelencia ",
+      "text": "Todos los profesores abordaron los temas muy bien, me encanta la libertad que nos dan como alumnos para ver las clases a nuestro ritmo y además tener la posibilidad de practicar con las actividades extras. ",
+      "author": "Cynthia Tafur",
+      "country": "VE",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-22T17:40:54.000Z",
+      "experienceISO": "2026-07-22T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a60022882126e4f74bce5ed",
       "stars": 5,
@@ -72,58 +124,6 @@
       "date": "jun 2026",
       "publishedISO": "2026-06-23T20:24:51.000Z",
       "experienceISO": "2026-06-23T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a38cb7ef3121656f2f57886",
-      "stars": 5,
-      "title": "ME ENCANTO ",
-      "text": "ME ENCANTO ! ME QUEDE TODAVIA CON MUCHAS DUDAS, Y AGRADEZCO INFINITAMENTE QUE DEJEN LAS CLASES UNOS MESES MAS PARA PODER PRACTUCAR Y VOLVERLAS A VER , REALMENTE ME GUSTARIA TOMAR OTRO CURSO \n",
-      "author": "CLAUDIA DE LA GALA ORDONEZ",
-      "country": "MX",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-22T07:43:26.000Z",
-      "experienceISO": "2026-06-21T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a35894c3c2d652c9e77085d",
-      "stars": 5,
-      "title": "La tapa del frasco",
-      "text": "Desde la pandemia me he ido preparando para desarrollar un proyecto y solo me faltaba este diplomado para darle acción de una vez.\nLas herramientas que me han aportado definitivamente son lo que me faltaba. Ya tengo la seguridad para ejecutar,  tengo la experiencia de mas de 30 años en el ejercicio de la psicologîa y deseo compartir mi experiencia con otros",
-      "author": "Ingrind Sequera",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-19T20:24:12.000Z",
-      "experienceISO": "2026-06-19T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a35017d54944c4b32b181a5",
-      "stars": 5,
-      "title": "Excelente experiencia",
-      "text": "Realmente me sorprendio el profesionalismo de los expositores y la organizacion en general de todo el diplomado. Lo recomendaria sin duda y ya estoy pensando en mi proximo curso en Asuntos digitales.",
-      "author": "vivian",
-      "country": "PT",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-19T10:44:45.000Z",
-      "experienceISO": "2026-06-19T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a34bc9148af06983da83913",
-      "stars": 5,
-      "title": "Excelente e innovadora experiencia",
-      "text": "Sin duda excelente experiencia, instancia de acceso a nuevos conocimientos. Nuevos procesos, invitación a singulares desafíos.",
-      "author": "Oscar Morales León Oscar",
-      "country": "CL",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-19T05:50:41.000Z",
-      "experienceISO": "2026-06-16T00:00:00.000Z",
       "verified": true
     }
   ]
