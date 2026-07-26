@@ -1,14 +1,79 @@
 {
   "business": {
     "name": "Asuntos Digitales",
-    "score": 4.6,
+    "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 377,
+    "totalReviews": 382,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-24T13:22:45.949Z"
+    "fetchedAt": "2026-07-26T14:05:36.749Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a654acd45d409223e13056f",
+      "stars": 5,
+      "title": "Excelente diplomatura",
+      "text": "Excelente:\n .-Formato\n.- Experiencia y conocimiento de profesionales disertantes\n.- Material de trabajo.\nQuizas algunos temas merecen alguna clase mas por su extencion.",
+      "author": "MARCELO MOLINI",
+      "country": "AR",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-26T01:46:21.000Z",
+      "experienceISO": "2026-07-25T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a640dddd3717fc6efe14bad",
+      "stars": 5,
+      "title": "vision global",
+      "text": "Me parece que fue muy acertada la \nescogencia de los profesores",
+      "author": "patricia morales",
+      "country": "VE",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-25T03:14:05.000Z",
+      "experienceISO": "2026-07-01T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a63f1805f5f87b327272f6c",
+      "stars": 5,
+      "title": "Excelente diplomado. Calidad 10/10",
+      "text": "La verdad es que hace mucho tiempo que no me entristece que termine un curso. El diplomado es exelente. La organización, la atención y el contenido realmente valen la pena! Y eso que me considero bastante exigente con este tipo de cursos vurtuales. Todos los encuentros dejan contenidos super valiosos. Los docentes con una paciencia de oro. Y la mejor es Corina, nuestro enlace con el diplomado. Un 10/10. Sin duda realizaria otro cursos!",
+      "author": "Julia Abreu",
+      "country": "AR",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-25T01:13:04.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a63dea5ac5e9e5f52279e53",
+      "stars": 5,
+      "title": "Muy recomendado",
+      "text": " Muy recomendado",
+      "author": "Jorge Javier Enamorado Paredes",
+      "country": "HN",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-24T23:52:37.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a6352ec9968f2e56cb55290",
+      "stars": 5,
+      "title": "Estoy muy satisfecho de haber cursado este diplomado",
+      "text": "Estoy muy satisfecho de haber cursado este diplomado, por la excelencia de su programa y relatores. Por otra parte pude apreciar una excelente implementaciòn del mismo, pues siempre se cumplió a cabalidad con las sesiones y su propuesta. También hubo una constante comunicaciòn entre Asuntos Digitales y sus estudiantes. Me felicito de haber elegido esta opción para desarrollar mis habilidades de liderazgo y gestión como director escolar en funciones.",
+      "author": "Rodrigo Pacheco Contreras",
+      "country": "CL",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-24T13:56:28.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a6282697de19a074c6f8224",
       "stars": 4,
@@ -59,71 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-22T17:40:54.000Z",
       "experienceISO": "2026-07-22T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a60022882126e4f74bce5ed",
-      "stars": 5,
-      "title": "Fascinada con mi diploma! ",
-      "text": "Quiero expresar mis más profundas gracias por haberme enseñado tantas cosas que no sabía. A pesar de hacer más de 14 años que estoy en retail, hoy aprendí muchísimas cosas más. Todas implementare, me voy fascinada, y a futuro me ire a vivir a España, Murcia, donde ojalá pueda seguir implementando todo lo que acá aprendí. MARÍA CORINA su calidez y dulzura y cada profesor que tuvimos en cada clase lo más. Respeto, dedicación y comprimiso, son una escuela que forma profesionales. Gracias desde Uruguay.\nLourdes. ",
-      "author": "Lourdes Mesa",
-      "country": "UY",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-22T01:35:04.000Z",
-      "experienceISO": "2026-07-21T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a5fe1faf629e835f4d255cd",
-      "stars": 5,
-      "title": "Magnifico curso, una gran experiencia",
-      "text": "La verdad es que cada tema y curso fueron muy constructivos, muy bien planeados, todas las ponencias de primer nivel y mucha puntualidad. Felicidades. ",
-      "author": "Gustavo Barraza Miller",
-      "country": "MX",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-21T23:17:46.000Z",
-      "experienceISO": "2026-07-21T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a4f31ffa71f1474553afc31",
-      "stars": 2,
-      "title": "El diplomado no tiene una estructura entendible",
-      "text": "El diplomado de dirección comercial con IA no tiene una estructura entendible, se entendía que aprenderiamos temas de dirección comercial y no sólo asumir que conociamos de que estaban hablando y automatizarlo con IA. La realidad es que desde la sesión 4 dejé de atender las sesiones porque sentía que perdía mi tiempo.",
-      "author": "Roberto Tellez",
-      "country": "US",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-09T07:30:39.000Z",
-      "experienceISO": "2026-07-08T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a3de418004f18b58b776efc",
-      "stars": 5,
-      "title": "Cómo una forma de seguir adelante",
-      "text": "Cómo una forma de seguir adelante \n",
-      "author": "Sander Bautista",
-      "country": "DO",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-26T04:29:44.000Z",
-      "experienceISO": "2026-06-18T00:00:00.000Z",
-      "verified": false
-    },
-    {
-      "id": "6a3acf73075fea89c5f03802",
-      "stars": 5,
-      "title": "Creo que es muy bueno y muy dinámico el…",
-      "text": "Creo que es muy bueno y muy dinámico el curso. La comunicación es excelente. Los profesores son profesionales del área y con buena trayectoria. Son ameno, responden las dudas. Lo recomiendo 100%",
-      "author": "Moralva",
-      "country": "DO",
-      "reviewCount": 1,
-      "date": "jun 2026",
-      "publishedISO": "2026-06-23T20:24:51.000Z",
-      "experienceISO": "2026-06-23T00:00:00.000Z",
       "verified": true
     }
   ]
