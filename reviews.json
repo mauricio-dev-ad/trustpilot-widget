@@ -3,12 +3,51 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 382,
+    "totalReviews": 385,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-26T14:05:36.749Z"
+    "fetchedAt": "2026-07-28T11:31:55.982Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a67c038ca25a8f5b416661d",
+      "stars": 5,
+      "title": "los profesionales que impartieron el…",
+      "text": "los profesionales que impartieron el diplomado",
+      "author": "Wilmer Oswaldo",
+      "country": "VE",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-27T22:31:52.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a678c46816b992952b37257",
+      "stars": 5,
+      "title": "Grata experiencia",
+      "text": "Buenos días, mi experiencia con ustedes fue muy buena, el profesorado de primera calidad, conocimiento y manejo de los temas, el temario actual y practico y se cumplió con el objetivo académico. Muy agradecido !!!!",
+      "author": "Lic. Josué Rodríguez B",
+      "country": "CR",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-27T18:50:14.000Z",
+      "experienceISO": "2026-07-17T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a677bb96dda1b1aaacd1295",
+      "stars": 5,
+      "title": "Me gustaron mucho la variedad de los…",
+      "text": "Me gustaron mucho la variedad de los contenidos. Los expositores supieron cómo proporcionar la información de una forma concreta y útil. Me gustó la duración semanal de 1:45 horas.",
+      "author": "Carolina Muñoz Solís",
+      "country": "DO",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-27T17:39:37.000Z",
+      "experienceISO": "2026-07-27T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a654acd45d409223e13056f",
       "stars": 5,
@@ -85,45 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-23T23:06:49.000Z",
       "experienceISO": "2026-07-23T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a623a3d033c63ddd313a70b",
-      "stars": 5,
-      "title": "Considero que la mayoría de los temas…",
-      "text": "Considero que la mayoría de los temas fueron muy interesantes y actualizados. \nLos profesionales disertantes solventes y amenos.\nSi bien variaban muchísimo las realidades y contextos de los diferentes países,el material de apoyo adicional complementó adecuadamente la información. ",
-      "author": "Adriana Gallo",
-      "country": "UY",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-23T17:58:53.000Z",
-      "experienceISO": "2026-07-23T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a615414fc220f4e6f47c7d8",
-      "stars": 5,
-      "title": "Las clases y la informacion muy vigentes e interesantes",
-      "text": "Las clases y la informacion de las mismas muy actualizadas e interesantes, los profesores excelentes y María Corina estupenda y muy atenta. Muchas gracias",
-      "author": "Romaire Martinez",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-23T01:36:52.000Z",
-      "experienceISO": "2026-07-22T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a60e4864d4b7f150a9d8771",
-      "stars": 5,
-      "title": "Libertad y excelencia ",
-      "text": "Todos los profesores abordaron los temas muy bien, me encanta la libertad que nos dan como alumnos para ver las clases a nuestro ritmo y además tener la posibilidad de practicar con las actividades extras. ",
-      "author": "Cynthia Tafur",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-22T17:40:54.000Z",
-      "experienceISO": "2026-07-22T00:00:00.000Z",
       "verified": true
     }
   ]
