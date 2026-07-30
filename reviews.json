@@ -3,12 +3,51 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 385,
+    "totalReviews": 388,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-28T11:31:55.982Z"
+    "fetchedAt": "2026-07-30T11:52:47.268Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a6aa84b3de46d0c7d873a1e",
+      "stars": 5,
+      "title": "Excelente experiencia",
+      "text": "Excelente experiencia! Tuve una experiencia muy agradable en el Diplomado de Gestión, Marketing y Comercialización de las artes con profesores muy especializados en los temas enseñados. Una experiencia muy valiosa que me ayudará a continuar construyendo mi carrera profesional!",
+      "author": "Victoria Cifuentes",
+      "country": "US",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-30T03:26:35.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a68e139c7283bbc29b7f6f6",
+      "stars": 5,
+      "title": "Agradecimiento",
+      "text": "Muchas gracias, querida María Corina. Considero que el diplomado es de muy alta calidad y que su aporte a mi carrera fue enorme. Agradezco a todos los profesionales, incluyendo tu maravillosa gestión y moderación. Estaremos en contacto. ¡Un fuerte abrazo y bendiciones! 🙏",
+      "author": "Lc-Betel",
+      "country": "CO",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-28T19:04:57.000Z",
+      "experienceISO": "2026-07-28T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a68c0b9651bf0cf3f2c638d",
+      "stars": 5,
+      "title": "Excelente calidad en todo el diplomado",
+      "text": "Excelente calidad de los materiales brindados durante las clases, los instructores con muy buen nivel de explicacion y los temas dictados son muy utiles para el desarrollo de los artistas.",
+      "author": "Jose Magallanes",
+      "country": "AR",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-28T16:46:17.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a67c038ca25a8f5b416661d",
       "stars": 5,
@@ -85,45 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-25T01:13:04.000Z",
       "experienceISO": "2026-07-24T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a63dea5ac5e9e5f52279e53",
-      "stars": 5,
-      "title": "Muy recomendado",
-      "text": " Muy recomendado",
-      "author": "Jorge Javier Enamorado Paredes",
-      "country": "HN",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-24T23:52:37.000Z",
-      "experienceISO": "2026-07-24T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a6352ec9968f2e56cb55290",
-      "stars": 5,
-      "title": "Estoy muy satisfecho de haber cursado este diplomado",
-      "text": "Estoy muy satisfecho de haber cursado este diplomado, por la excelencia de su programa y relatores. Por otra parte pude apreciar una excelente implementaciòn del mismo, pues siempre se cumplió a cabalidad con las sesiones y su propuesta. También hubo una constante comunicaciòn entre Asuntos Digitales y sus estudiantes. Me felicito de haber elegido esta opción para desarrollar mis habilidades de liderazgo y gestión como director escolar en funciones.",
-      "author": "Rodrigo Pacheco Contreras",
-      "country": "CL",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-24T13:56:28.000Z",
-      "experienceISO": "2026-07-24T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a6282697de19a074c6f8224",
-      "stars": 4,
-      "title": "El programa fue amplio",
-      "text": "El programa fue amplio, diverso, y hubo varios temas de utilidad y actualidad.",
-      "author": "José Luis Bustamante Penilla",
-      "country": "MX",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-23T23:06:49.000Z",
-      "experienceISO": "2026-07-23T00:00:00.000Z",
       "verified": true
     }
   ]
