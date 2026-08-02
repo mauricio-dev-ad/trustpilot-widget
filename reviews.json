@@ -3,12 +3,25 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 388,
+    "totalReviews": 389,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-07-30T11:52:47.268Z"
+    "fetchedAt": "2026-08-02T14:36:54.997Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a6b86b8a07417719acf43ca",
+      "stars": 5,
+      "title": "Profesionales excelentes en el campo del Arte",
+      "text": "Poseen profesionales muy capacitados en cuanto a Marketing y Mercado del Arte. Disfruté mucho el diplomado y me llevo muchos aprendizajes significativos.\n\nMe gustaría que implementaran más programas relacionados al Arte.",
+      "author": "Rocío Hernández",
+      "country": "SV",
+      "reviewCount": 1,
+      "date": "jul 2026",
+      "publishedISO": "2026-07-30T19:15:36.000Z",
+      "experienceISO": "2026-07-24T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a6aa84b3de46d0c7d873a1e",
       "stars": 5,
@@ -111,19 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-25T03:14:05.000Z",
       "experienceISO": "2026-07-01T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a63f1805f5f87b327272f6c",
-      "stars": 5,
-      "title": "Excelente diplomado. Calidad 10/10",
-      "text": "La verdad es que hace mucho tiempo que no me entristece que termine un curso. El diplomado es exelente. La organización, la atención y el contenido realmente valen la pena! Y eso que me considero bastante exigente con este tipo de cursos vurtuales. Todos los encuentros dejan contenidos super valiosos. Los docentes con una paciencia de oro. Y la mejor es Corina, nuestro enlace con el diplomado. Un 10/10. Sin duda realizaria otro cursos!",
-      "author": "Julia Abreu",
-      "country": "AR",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-25T01:13:04.000Z",
-      "experienceISO": "2026-07-24T00:00:00.000Z",
       "verified": true
     }
   ]
