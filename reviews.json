@@ -3,12 +3,25 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 389,
+    "totalReviews": 390,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-08-05T11:42:50.711Z"
+    "fetchedAt": "2026-08-07T11:42:20.917Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a7347c087a81e99b2058e87",
+      "stars": 5,
+      "title": "Calidad humana",
+      "text": "Las clases son brindadas por expertos en la materia, los materiales están a la vanguardia del mercado y las personas que trabajan en este proyecto, están siempre dispuestas a ayudar y a apoyarte en el proceso. En mi caso tuve varias situaciones personales que después de exponerlas, me apoyaron mucho. Estoy muy agradecida con Asuntos Digitales por su capital humano y luego, por lo que tienen para aportar a tu crecimiento profesional. ",
+      "author": "Katerine Pérez",
+      "country": "CO",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-05T16:25:04.000Z",
+      "experienceISO": "2026-08-05T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a6b86b8a07417719acf43ca",
       "stars": 5,
@@ -111,19 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-26T01:46:21.000Z",
       "experienceISO": "2026-07-25T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a640dddd3717fc6efe14bad",
-      "stars": 5,
-      "title": "vision global",
-      "text": "Me parece que fue muy acertada la \nescogencia de los profesores",
-      "author": "patricia morales",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-25T03:14:05.000Z",
-      "experienceISO": "2026-07-01T00:00:00.000Z",
       "verified": true
     }
   ]
