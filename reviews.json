@@ -3,12 +3,25 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 390,
+    "totalReviews": 391,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-08-10T12:23:58.602Z"
+    "fetchedAt": "2026-08-11T11:33:43.765Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a7ab0875f395f10bbdd3356",
+      "stars": 5,
+      "title": "POS yo no avía sacado préstamos y…",
+      "text": "POS yo no avía sacado préstamos y siempre lo que saco fiado siempre a pagado",
+      "author": "Fernando Camacho",
+      "country": "MX",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-11T07:17:59.000Z",
+      "experienceISO": "2026-08-11T00:00:00.000Z",
+      "verified": false
+    },
     {
       "id": "6a7347c087a81e99b2058e87",
       "stars": 5,
@@ -111,19 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-27T17:39:37.000Z",
       "experienceISO": "2026-07-27T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a654acd45d409223e13056f",
-      "stars": 5,
-      "title": "Excelente diplomatura",
-      "text": "Excelente:\n .-Formato\n.- Experiencia y conocimiento de profesionales disertantes\n.- Material de trabajo.\nQuizas algunos temas merecen alguna clase mas por su extencion.",
-      "author": "MARCELO MOLINI",
-      "country": "AR",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-26T01:46:21.000Z",
-      "experienceISO": "2026-07-25T00:00:00.000Z",
       "verified": true
     }
   ]
