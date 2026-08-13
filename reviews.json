@@ -3,12 +3,51 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 391,
+    "totalReviews": 394,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-08-11T11:33:43.765Z"
+    "fetchedAt": "2026-08-13T12:29:45.109Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a7ca1c4d3bf98eca7306245",
+      "stars": 5,
+      "title": "completo y las sesiones muy dinamica",
+      "text": "completo y las sesiones muy dinamica ",
+      "author": "BARBARA IANCIG",
+      "country": "DO",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-12T18:39:32.000Z",
+      "experienceISO": "2026-08-04T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a7c74e6866e7fdd13332daf",
+      "stars": 5,
+      "title": "Un diplomado full-scope sobre marketing hotelero",
+      "text": "El pensum es lo bastante amplio como para descubrir aspectos del oficio hotelero que no se tenían completamente entendidos. Es un diplomado muy completo para lo referido a marketing del negocio y casos de éxito.",
+      "author": "Tzeitel Topel",
+      "country": "CO",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-12T15:28:06.000Z",
+      "experienceISO": "2026-03-17T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a7b7ad956874d350d9b4975",
+      "stars": 3,
+      "title": "Hubo clases interesantes",
+      "text": "Hubo clases muy interesantes, pero también algunas muy aburridas, de solo teoría sin nada de práctica real, ejemplos no actualizados. Honestamente la calidad de los profesores es media, se nota que su experiencia es antigua y no con cargos como se promocionan. Un gran porcentaje de clases se notaba que los profesores daban una charla para luego buscar que los alumnos los busquen para consultorias, eso me deja mucho que desear de Asuntos Digitales como academia porque parecería (no aseguro) que hace un convenio con oos profesores en lugar de contratarlos para que den una clase real",
+      "author": "JAVIER RON",
+      "country": "EC",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-11T21:41:13.000Z",
+      "experienceISO": "2026-08-11T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a7ab0875f395f10bbdd3356",
       "stars": 5,
@@ -85,45 +124,6 @@
       "date": "jul 2026",
       "publishedISO": "2026-07-28T16:46:17.000Z",
       "experienceISO": "2026-07-24T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a67c038ca25a8f5b416661d",
-      "stars": 5,
-      "title": "los profesionales que impartieron el…",
-      "text": "los profesionales que impartieron el diplomado",
-      "author": "Wilmer Oswaldo",
-      "country": "VE",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-27T22:31:52.000Z",
-      "experienceISO": "2026-07-24T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a678c46816b992952b37257",
-      "stars": 5,
-      "title": "Grata experiencia",
-      "text": "Buenos días, mi experiencia con ustedes fue muy buena, el profesorado de primera calidad, conocimiento y manejo de los temas, el temario actual y practico y se cumplió con el objetivo académico. Muy agradecido !!!!",
-      "author": "Lic. Josué Rodríguez B",
-      "country": "CR",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-27T18:50:14.000Z",
-      "experienceISO": "2026-07-17T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a677bb96dda1b1aaacd1295",
-      "stars": 5,
-      "title": "Me gustaron mucho la variedad de los…",
-      "text": "Me gustaron mucho la variedad de los contenidos. Los expositores supieron cómo proporcionar la información de una forma concreta y útil. Me gustó la duración semanal de 1:45 horas.",
-      "author": "Carolina Muñoz Solís",
-      "country": "DO",
-      "reviewCount": 1,
-      "date": "jul 2026",
-      "publishedISO": "2026-07-27T17:39:37.000Z",
-      "experienceISO": "2026-07-27T00:00:00.000Z",
       "verified": true
     }
   ]
