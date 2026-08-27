@@ -3,12 +3,38 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 408,
+    "totalReviews": 410,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-08-25T11:24:43.050Z"
+    "fetchedAt": "2026-08-27T11:49:35.445Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6a8f58cdbc57c00b02c2cbd8",
+      "stars": 4,
+      "title": "Mi Opinion Personal",
+      "text": "Muy agradecido con todos ustedes profesionales, en esta materia de Producción Musical donde se aclararon muchos puntos, conocido y explorado otros y aprender sobre las herramientas actuales que se pueden utilizar dentro de la Industria Musical para un mejor rendimiento en el negocio actual de la música, de verdad de gran ayuda sus valiosas sesiones, Dios los Bendiga un abrazo",
+      "author": "roman requena",
+      "country": "VE",
+      "reviewCount": 1,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-26T23:21:17.000Z",
+      "experienceISO": "2026-08-26T00:00:00.000Z",
+      "verified": true
+    },
+    {
+      "id": "6a8e2d83354b7106ff1b1661",
+      "stars": 5,
+      "title": "Muy satisfactorio la guia",
+      "text": "Muy satisfactorio la guia, soporte, modalidad y contenido gramatical ",
+      "author": "Yalet",
+      "country": "VE",
+      "reviewCount": 2,
+      "date": "ago 2026",
+      "publishedISO": "2026-08-26T02:04:19.000Z",
+      "experienceISO": "2026-08-19T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a8617156dccb25f056487c9",
       "stars": 5,
@@ -97,32 +123,6 @@
       "reviewCount": 1,
       "date": "ago 2026",
       "publishedISO": "2026-08-15T16:02:56.000Z",
-      "experienceISO": "2026-08-14T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a7fd9e06fc47ddae2d4ecbb",
-      "stars": 5,
-      "title": "Excelentes expositores y excelentes…",
-      "text": "Excelentes expositores y excelentes exposiciones ",
-      "author": "Alfonso Gagnebet León",
-      "country": "MX",
-      "reviewCount": 1,
-      "date": "ago 2026",
-      "publishedISO": "2026-08-15T05:15:44.000Z",
-      "experienceISO": "2026-08-14T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a7f36b135d4a639a75debeb",
-      "stars": 5,
-      "title": "aprendizaje total",
-      "text": "aprendizaje total",
-      "author": "ac dominicana",
-      "country": "DO",
-      "reviewCount": 4,
-      "date": "ago 2026",
-      "publishedISO": "2026-08-14T17:39:29.000Z",
       "experienceISO": "2026-08-14T00:00:00.000Z",
       "verified": true
     }
