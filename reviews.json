@@ -3,12 +3,25 @@
     "name": "Asuntos Digitales",
     "score": 4.7,
     "stars": 4.5,
-    "totalReviews": 413,
+    "totalReviews": 414,
     "url": "https://www.trustpilot.com/review/asuntosdigitales.com",
-    "fetchedAt": "2026-09-14T15:16:31.238Z"
+    "fetchedAt": "2026-09-18T11:59:41.079Z"
   },
   "count": 9,
   "reviews": [
+    {
+      "id": "6aaab6114b8ea5057e03ba03",
+      "stars": 5,
+      "title": "Super Recomendado",
+      "text": "Es un curso iniciativo para empezar a desplegar las habilidades financieras que estudiamos en la facultad pero con la ayuda de la IA, realmente me super aportó y mejoré en la toma de decisiones con datos procesados, muchas gracias!!!\n",
+      "author": "Gaston Juarez",
+      "country": "AR",
+      "reviewCount": 1,
+      "date": "sept 2026",
+      "publishedISO": "2026-09-16T17:30:25.000Z",
+      "experienceISO": "2026-08-12T00:00:00.000Z",
+      "verified": true
+    },
     {
       "id": "6a93875dbdd22a74ef0b0683",
       "stars": 3,
@@ -110,19 +123,6 @@
       "reviewCount": 1,
       "date": "ago 2026",
       "publishedISO": "2026-08-18T22:40:24.000Z",
-      "experienceISO": "2026-08-18T00:00:00.000Z",
-      "verified": true
-    },
-    {
-      "id": "6a84845d819251db8fba282e",
-      "stars": 5,
-      "title": "Docentes muy capacitados y preocupados…",
-      "text": "Docentes muy capacitados y preocupados por los alumnos. No era impartir solamente la clase, sino que se preocupaban por las consultas e inquietudes de todos los alumnos, como también por la aplicación de las herramientas que nos estaban enseñando. Excelente experiencia y muy práctico!",
-      "author": "Mauricio",
-      "country": "PE",
-      "reviewCount": 1,
-      "date": "ago 2026",
-      "publishedISO": "2026-08-18T18:12:13.000Z",
       "experienceISO": "2026-08-18T00:00:00.000Z",
       "verified": true
     }
